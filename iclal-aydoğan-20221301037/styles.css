@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("images/bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+} 
+
+.iclal{
+    Position: relative;
+    padding-left: 50%;
+    top:25vh;
+}
+
+.genel-container{
+    color: rgb(83, 74, 74);
+    padding: 20px 0;
+    justify-content: center;
+    width: %100;
+    
+}
+.sekmeler{
+    justify-content:space-around;
+    display: flex;
+    flex-direction: row;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.sekmeler{
+    padding-top: 5%;
+    padding-left:5%;
+    
+}
+
+.bilgi2{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    display:flex;}
+    
+    .bilgi2{
+    padding-left:35%;
+    padding-top:5%}
+
+.boşluk2{padding-top:5%}
+
+
+.başlık{
+    display: flex;
+    justify-content: center;
+    padding-top: %;
+    }
+
+.name{font-family: 'Courier New', Courier, monospace;
+    font-size: 45px;
+}
+
+.bilgi{font-size: 15px;
+font-family: 'Times New Roman', Times, serif;
+color: white;
+display:flex;
+padding-left:55%;}
+
+
+.portfolio{display:flex;
+    justify-content: center;}
+
+
+
+.tanıtım{justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+}
+
+.müze{padding-left:5%;
+padding-top:2%;
+}
+
+.about-metni{
+    color: rgb(72, 61, 44);
+    padding-right:15%;
+    padding-top:3%;
+    width: 125vh;
+    text-align: center;
+    font-size:16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.boşluk{padding-top: 10%;}
+
+.contact{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top:7%;
+    color: white;
+}
+
+.index{padding-left: 65%;
+    width:;}
+
+
+.arch1{display: flex;
+justify-content: center;
+padding-top:5%;}
+
+.photo1{display: flex;
+    justify-content: center;
+    padding-top:5%;}
+
+    .draw1{display: flex;
+        justify-content: center;
+        padding-top:5%;}
+
+a:visited {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.ok{padding-left: 5%;
+padding-top:20% ;}
+
